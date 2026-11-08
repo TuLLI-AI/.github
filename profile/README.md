@@ -1,6 +1,6 @@
 # TüLLI-AI
 
-**[Tübingen Language, Learning and Inference Group] — a research group at the University of Tübingen.**
+**Tübingen Language, Learning and Inference Group** — a research group at the [University of Tübingen](https://uni-tuebingen.de/en/).
 
 We are interested in language models, particularly in how ideas from **logic, automated reasoning and probabilistic inference**
 can help us understand, constrain and improve modern AI systems. 

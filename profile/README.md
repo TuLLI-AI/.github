@@ -14,7 +14,7 @@ teaching materials.
 |---|---|
 | [**symprog**](https://github.com/TuLLI-AI/symprog) | A small Python library for symbolic programming and tractable inference: write weighted Boolean formulas and discrete probabilistic programs, then count models, compute exact probabilities and take gradients. `pip install symprog` |
 | [**Copper**](https://github.com/TuLLI-AI/Copper) | Code for *CoTs as Probabilistic Programs: A Programmatic View of Thinking Step-by-Step in Language Models* (NeurIPS 2026). |
-| [**ModelLog**](https://github.com/TuLLI-AI/ModelLog) | Code for *From Token Probabilities to Semantic Constraints* (EMNLP 2026). |
+| [**ModelLog**](https://github.com/TuLLI-AI/ModelLog) | Code for *From Token Probabilities to Semantic Constraints: Towards Declarative Probabilistic Evaluation of Language Models* (EMNLP 2026). |
 
 ## 📚 Teaching (Winter Semester 2026/27)
 
